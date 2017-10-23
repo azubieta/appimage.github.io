@@ -60,3 +60,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - .gitignore
+
+theme: jekyll-theme-merlot
